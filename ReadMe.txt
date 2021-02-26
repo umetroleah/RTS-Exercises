@@ -1,0 +1,4 @@
+For the third question, I would change how 2D lighting in Unity works. Currently getting dynamic 2D lighting with shadows requires either building a great deal of code which is very tough to optimize, or using a polygon light source which may not be a good solution in all cases. Additionally, trying to do lighting in 2D with what is provided is not compatible with WebGL builds, meaning it would need to be disabled or else nothing will appear. 
+
+
+For the first two problems, I created a program file which will ask for you for inputs in the console. The actual exercises are seperated into two seperate functions called AboveBelow and RotateString. 
